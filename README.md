@@ -23,6 +23,6 @@ Hurricanes data collected on the 34 strongest Atlantic hurricanes are provided i
 ## Insight from Data:
 - The most affected area by hurricanes is **Central America**, with total of 9 hurricanes affecting this area.
 - **Hurricane Mitch** is the deadliest hurricane. Occured in 1998, this Hurricane caused the total of 19325 deaths!
-- **Katrina Hurricane** is the costliest storm in our list. Damage from the storm is $125 billion !
+- **Katrina Hurricane** is the costliest storm in our list. Damage from the storm is $125 billion!
 
 Thank you for visiting my repository 😃👏
